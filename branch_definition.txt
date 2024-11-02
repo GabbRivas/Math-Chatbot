@@ -1,0 +1,5 @@
+La rama de la matematica que estudia e involucra las operaciones elementales como: suma, resta, multiplicacion, etc...
+Rama de las matematicas que procesa las figuras geometricas y las propiedades del espacio  que las rodea.
+Es la rama de la matematica correspondiente al uso de letras como representantes de cantidades numericas con la intencion de encontrar formulas y ecuaciones.
+Es la disciplina de la matematica que comprende la organizacion de datos mientras facilita su analisis.
+El calculo infinitesimal (mas conocido como calculo), es la rama matematicas que comprende el cambio y la continuidad.

@@ -1,0 +1,5 @@
+Aritmetica
+Geometria
+Algebra
+Estadistica
+Calculo
